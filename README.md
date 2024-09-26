@@ -101,7 +101,7 @@ for idx, url in enumerate(image_urls, 1):
 
 ## Example Output
 
-[basic-chatbot.py - demo](https://drive.google.com/uc?export=download&id=1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi)
+[basic-chatbot.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
 
 ## License
 
