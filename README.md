@@ -101,9 +101,17 @@ for idx, url in enumerate(image_urls, 1):
 - **Text Prompt**: Update the `image_prompt` variable with your desired text description.
 
 ## Example Output
+
+### image-generation.py
 ![image-generation.png - screenshot](outputs/image-generation.png)
 ![img1.png - screenshot](outputs/img1.png)
 ![img2.png - screenshot](outputs/img2.png)
+
+### basic-chatbot-with-memory.py
+![image-generation.png - screenshot](outputs/basic-chatbot-with-memory.png)
+
+### text-summarizer.py
+![image-generation.png - screenshot](outputs/text-summarizer.png)
 
 ## License
 
