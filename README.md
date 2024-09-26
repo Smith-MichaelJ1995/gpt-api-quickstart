@@ -81,7 +81,13 @@ This is a simple Python Proof of Concept (PoC) for generating images using the O
 
 ## Example Output
 
-![Chatbot Example](basic-chatbot.mov) *(Replace with a URL or local path to an example image of the chatbot in action)*
+<div align="center">
+    <video width="600" controls>
+        <source src="https://drive.google.com/uc?export=download&id=1slhjkD8XcmcSo6DO47sPyiEjMyIyTaci" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 ## Downloading Images
 
