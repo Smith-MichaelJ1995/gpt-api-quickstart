@@ -79,6 +79,7 @@ This is a simple Python Proof of Concept (PoC) for generating images using the O
 - **Handle Different User Inputs**: You can extend the functionality by adding specific responses or actions for particular user inputs.
 
 ## Example Output
+### basic_chatbot.py
 ![basic-chatbot.py - screenshot](outputs/basic-chatbot.png)
 [basic-chatbot.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
 
@@ -122,3 +123,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenAI](https://www.openai.com/) for providing the API and resources.
 
 # Bonus POCs
+### basic-chatbot-with-memory.py Video
+[basic-chatbot-with-memory.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
