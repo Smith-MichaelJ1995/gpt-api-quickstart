@@ -101,12 +101,7 @@ for idx, url in enumerate(image_urls, 1):
 
 ## Example Output
 
-<div align="center">
-    <video width="600" controls>
-        <source src="https://drive.google.com/uc?export=download&id=1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+[basic-chatbot.py - demo](https://drive.google.com/uc?export=download&id=1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi)
 
 ## License
 
