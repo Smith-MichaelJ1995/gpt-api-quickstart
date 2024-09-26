@@ -1,4 +1,3 @@
-
 # Image Generation PoC using OpenAI API
 
 This is a simple Python Proof of Concept (PoC) for generating images using the OpenAI DALL-E model based on text prompts. It demonstrates how to interact with the OpenAI API to create custom images and download them locally.
