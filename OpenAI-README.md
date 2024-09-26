@@ -58,6 +58,9 @@ This guide provides instructions on how to log into the OpenAI platform, view yo
 - If you need to manage your API keys, navigate to the **API Keys** section and click on the **Revoke** button next to an existing key to deactivate it.
 - For detailed usage reports or to view invoices, go to the **Billing History** section under **Billing**.
 
+### 6. Billing Dashboard Demo
+![image-generation.png - screenshot](outputs/budget.png)
+
 ## Troubleshooting
 
 - **Cannot Access API Key**: If you can't access your API key, ensure that you have appropriate permissions. Contact OpenAI support if you need further assistance.
