@@ -81,14 +81,6 @@ This is a simple Python Proof of Concept (PoC) for generating images using the O
 
 ## Example Output
 
-<div align="center">
-    <video width="600" controls>
-        <source src="https://drive.google.com/uc?export=download&id=1slhjkD8XcmcSo6DO47sPyiEjMyIyTaci" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
-
 ## Downloading Images
 
 The script includes an optional function to download the generated images locally. To enable it, uncomment the relevant section in `generate_image.py` and run the script again.
@@ -109,7 +101,12 @@ for idx, url in enumerate(image_urls, 1):
 
 ## Example Output
 
-![Example Image](example.png) *(Replace with a URL or local path to an example image)*
+<div align="center">
+    <video width="600" controls>
+        <source src="https://drive.google.com/uc?export=download&id=1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 ## License
 
