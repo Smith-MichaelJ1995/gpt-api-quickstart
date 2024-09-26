@@ -100,7 +100,7 @@ for idx, url in enumerate(image_urls, 1):
 - **Text Prompt**: Update the `image_prompt` variable with your desired text description.
 
 ## Example Output
-
+![basic-chatbot.py - screenshot](outputs/basic-chatbot.png)
 [basic-chatbot.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
 
 ## License
