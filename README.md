@@ -80,6 +80,8 @@ This is a simple Python Proof of Concept (PoC) for generating images using the O
 - **Handle Different User Inputs**: You can extend the functionality by adding specific responses or actions for particular user inputs.
 
 ## Example Output
+![basic-chatbot.py - screenshot](outputs/basic-chatbot.png)
+[basic-chatbot.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
 
 ## Downloading Images
 
@@ -100,8 +102,9 @@ for idx, url in enumerate(image_urls, 1):
 - **Text Prompt**: Update the `image_prompt` variable with your desired text description.
 
 ## Example Output
-![basic-chatbot.py - screenshot](outputs/basic-chatbot.png)
-[basic-chatbot.py - demo](https://drive.google.com/file/d/1TgE30eszfugX9ciCAmPNTgqUbla6-Nqi/view)
+![image-generation.png - screenshot](outputs/image-generation.png)
+![img1.png - screenshot](outputs/img1.png)
+![img2.png - screenshot](outputs/img2.png)
 
 ## License
 
@@ -110,3 +113,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [OpenAI](https://www.openai.com/) for providing the API and resources.
+
+# Bonus POCs
